@@ -1,3 +1,4 @@
 babababbabadlll
 wtf
 the thired line
+git has a mutable index called stage.
