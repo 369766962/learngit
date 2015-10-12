@@ -4,3 +4,5 @@ the thired line
 git has a mutable index called stage.
 add 1 line at 5
 334
+2222
+
